@@ -33,6 +33,10 @@ void ofApp::setup(){
         theta[i] = ofRandom(0,2*PI);
         phi[i] = ofRandom(0,PI);
         radius[i] = ofRandom(280,300);
+//
+//        theta[i] = ofNoise(0,2*PI);
+//        phi[i] = ofNoise(0,PI);
+//        radius[i] = ofRandom(280,300);
         
         points[i] = ofPoint(radius[i]*cos(theta[i])*sin(phi[i]), radius[i]*sin(theta[i])*sin(phi[i]), radius[i]*cos(phi[i]));
         
