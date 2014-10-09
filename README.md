@@ -10,7 +10,9 @@ _____________________________________________
 
 # Midterm: Creative Simulations
 
-My Midterm is based ![midterm](images/CreativeCodeMidterm.pdf) on my fascination with the fundamental building blocks of the universe. As a former astrophysicist, my creative interests lie somewhere in the intersection of art and science. I will continue to push this concept of "simulating" the geometries that govern our entire universe.
+My Midterm is based on my fascination with the fundamental building blocks of the universe. As a former astrophysicist, my creative interests lie somewhere in the intersection of art and science. I will continue to push this concept of "simulating" the geometries that govern our entire universe.
+
+[Presentation](images/CreativeCodeMidterm.pdf)
 
 Here is a short compilation of the 6 pieces that I made for the midterm:
 [Midterm Compilation Video](https://vimeo.com/108428005)
