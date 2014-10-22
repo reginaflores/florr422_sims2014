@@ -8,6 +8,13 @@ _This is the "Read Me" file for the homework repository for Creative Coding taug
 _Please note that it is in "blog format". Meaning the newest homeworks are found at the top of the document and the oldest homework is found at the bottom of the document._
 _____________________________________________
 
+# Homework: Week 07
+
+Beautiful image of combining Barbara's Oscillating Plane with my Shepre:
+![babs](images/babs.png)
+
+_____________________________________________
+
 # Midterm: Creative Simulations
 
 My Midterm is based on my fascination with the fundamental building blocks of the universe. As a former astrophysicist, my creative interests lie somewhere in the intersection of art and science. I will continue to push this concept of "simulating" the geometries that govern our entire universe.

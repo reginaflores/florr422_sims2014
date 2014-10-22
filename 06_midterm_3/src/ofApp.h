@@ -26,7 +26,7 @@ class ofApp : public ofBaseApp{
     float dist;
     float noisey;
     
-    ofMesh mesh;
+    //ofMesh mesh;
 
     
     vector<ofPoint> points;

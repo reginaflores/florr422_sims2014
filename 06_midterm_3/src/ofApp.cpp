@@ -95,10 +95,10 @@ void ofApp::draw(){
     }
     cam.end();
     
-    cout<<ofToString("frame"+ofToString(ofGetFrameNum(), 1, 5, '0'))<<endl;
-    
-    ofSaveScreen(ofToString("frame"+ofToString(ofGetFrameNum(), 1, 5, '0')+".png"));
-    
+//    cout<<ofToString("frame"+ofToString(ofGetFrameNum(), 1, 5, '0'))<<endl;
+//    
+//    ofSaveScreen(ofToString("frame"+ofToString(ofGetFrameNum(), 1, 5, '0')+".png"));
+//    
 }
 
 //--------------------------------------------------------------
