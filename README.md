@@ -8,6 +8,13 @@ _This is the "Read Me" file for the homework repository for Creative Coding taug
 _Please note that it is in "blog format". Meaning the newest homeworks are found at the top of the document and the oldest homework is found at the bottom of the document._
 _____________________________________________
 
+# Homework: Week 09
+Fun with Shaders!
+
+![shaderToy](images/shaderToy.png)
+
+_____________________________________________
+
 # Homework: Week 07
 
 Beautiful image of combining Barbara's Oscillating Plane with my Shepre:
