@@ -33,6 +33,8 @@ Here is a short compilation of the 6 pieces that I made for the midterm:
 
 Here is the work of [Reza Syed](http://www.syedrezaali.com/#/a-drifting-up/) who I based a few of these early sketches off of. Reza is an amazing code artist!!! I have long admired his work and can only hope to one day be as talented a coding artist as he is!
 
+![midterm](images/midterm.png)
+
 _____________________________________________
 
 # Homework: Week 04
