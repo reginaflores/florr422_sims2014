@@ -29,6 +29,11 @@ Addons:
 
 ###Documentation
 
+Basic string theory image:
+
+![gui](images/gui.png)
+
+
 Image of different effects:
 
 ![stringTheory1](images/stringTheory1.png)
