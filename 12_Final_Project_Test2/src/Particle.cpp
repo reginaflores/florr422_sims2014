@@ -52,7 +52,7 @@ void Particle::draw(){
     /////////////////////////
     //this gives the strings color or B/W
     //ofSetColor(ofRandom(0,255),ofRandom(0,255),ofRandom(0,255), opacity);
-    ofSetColor(255,255,255, opacity);
+    ofSetColor(0,0,0, opacity);
     /////////////////////////
 
     //Build the strings

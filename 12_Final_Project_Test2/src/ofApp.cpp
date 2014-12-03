@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     
-    ofBackground(0);
+    ofBackground(255);
     
     //initialize variables
     num = 1000;
@@ -97,7 +97,6 @@ void ofApp::draw(){
     
 
     cam.begin();
-    light.enable();
     
     //rotate the cam
     ofRotate(ofGetFrameNum()*speedRotate, 0, 1, 0);
@@ -109,7 +108,7 @@ void ofApp::draw(){
 
     ofNoFill();
     //ofDrawBox(0, 0, 0, 200, 200, 200);
-    ofSetColor(255,255,255,100);
+    ofSetColor(0,0,0,100);
     ofDrawBox(0, 0, 0, boxWidth, boxHeight, boxDepth);
     for(int i =0; i < num; i++){
         //ofSetColor(0);
@@ -117,7 +116,6 @@ void ofApp::draw(){
 
     }
     
-    light.disable();
     cam.end();
 }
 

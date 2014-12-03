@@ -25,7 +25,6 @@ class ofApp : public ofBaseApp{
     void refresh();
     
     ofEasyCam cam;
-    ofLight light;
     
     int num;
     int boxWidth;
