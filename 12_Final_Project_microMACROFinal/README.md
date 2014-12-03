@@ -17,14 +17,28 @@ Click on this link to see the creative coding short film I made for this project
 
 ###Technical Notes
 
-NOTE: Each time you change a parameter in the GUI you have to press spacebar to update the system.
+**NOTE:** 
+
+Each time you change a parameter in the GUI you have to press spacebar to update the system.
 
 
-Addons:
+**Addons:**
 
 1) ofxUI -  GUI is made to demonstrate how changing parameters can change the behavior of the system. 
 
 2) ofxPostProssesing - playing with other visual effects 
+
+**Particle Class:**
+
+The crux of this project lies in the creation of a particle class that exhibits a number of behaviors:
+
+-The particles are given random positions and are bounded by a 3D box width, height and depth. 
+
+-Each particle is given a velocity. 
+
+-A noise array was created and mapped to velocity. 
+
+-A position array was created and used to create "strings" using an ofCurveVertex  (more fancy version of a line)
 
 
 ###Documentation
@@ -67,7 +81,13 @@ Inspiration was taken from the work of:
 
 ![plant](images/plant.png)
 
-2) Ryan Alexander's work [Mycilium](http://www.creativeapplications.net/processing/mycelium-processing/).
+
+2) Memo Akten's work [String Theory](http://www.memo.tv/string-theory/).
+
+![memo](images/memo.jpg)
+
+
+3) Ryan Alexander's work [Mycilium](http://www.creativeapplications.net/processing/mycelium-processing/).
 
 ![plant](images/mycillium.png)
 
