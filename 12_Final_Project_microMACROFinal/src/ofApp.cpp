@@ -3,11 +3,6 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     
-    //Used for Screen Effect code
-    //if(toggleOn){
-    //    ofToggleFullscreen();
-    //}
-    
     ofBackground(0);
     
     //initialize variables
@@ -70,6 +65,8 @@ void ofApp::setup(){
     gui->addToggle("God Ray", &godRayOn);
     
     gui-> autoSizeToFitWidgets();
+    
+    ofAddListener(gui-> newGUIEvent, this, &ofApp::guiEvent);
     /////////////////////////
     
     
@@ -236,5 +233,11 @@ void ofApp::dragEvent(ofDragInfo dragInfo){
 
 }
 //--------------------------------------------------------------
+void ofApp::guiEvent(ofxUIEventArgs &e){
+    
+    if(e.getName()=="Fullscreen"){
+        ofToggleFullscreen();
+    }
+}
 
 

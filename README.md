@@ -8,10 +8,32 @@ _This is the "Read Me" file for the homework repository for Creative Coding taug
 _Please note that it is in "blog format". Meaning the newest homeworks are found at the top of the document and the oldest homework is found at the bottom of the document._
 _____________________________________________
 
+# Final Project
+
+For all the details on my final project click this link to my final project folder! You will find a HEAVY read me file!
+
+###[FINAL PROJECT LINK HERE](https://github.com/reginaflores/florr422_sims2014/tree/master/12_Final_Project_microMACROFinal)
+
+
+
+![gui](images/gui.png)
+
+
+_____________________________________________
 # Homework: Week 09
 Fun with Shaders!
 
 ![shaderToy](images/shaderToy.png)
+
+_____________________________________________
+# Homework: Week 08
+
+No homework!!!
+
+We went to the OF Meetup at the Fake Love offices! I met some OF rockstars!
+
+![pat](images/pat.jpg)
+![kyle](images/kyle.jpg)
 
 _____________________________________________
 
@@ -34,6 +56,15 @@ Here is a short compilation of the 6 pieces that I made for the midterm:
 Here is the work of [Reza Syed](http://www.syedrezaali.com/#/a-drifting-up/) who I based a few of these early sketches off of. Reza is an amazing code artist!!! I have long admired his work and can only hope to one day be as talented a coding artist as he is!
 
 ![midterm](images/midterm.png)
+
+_____________________________________________
+
+# Homework: Week 05
+
+
+No Homework. We worked on our midterm projects!!!
+
+
 
 _____________________________________________
 
