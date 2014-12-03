@@ -47,7 +47,7 @@ Using ofxPostProcessing effects:
 ![postProcessing](images/postProcessing.png)
 
 
-###Things that went wrong
+###Future Iterations
 
 I tried to play with simulations of more fluid like motion. Here is an image from [NASA](http://www.nasa.gov/ames/magnetic-field-loops-on-the-sun/#.VH5hrKTF8m-) of supercomputer simulation of magnetic field loops on the Sun. 
 
